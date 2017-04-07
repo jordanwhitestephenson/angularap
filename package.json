@@ -15,5 +15,5 @@
 }
 "repository": {
   "type": "git",
-  "url": "git://github.com/jordanwhitestephenson/angular-drills.git"
+  "url": "https://github.com/jordanwhitestephenson/angular-drills.git"
 }
